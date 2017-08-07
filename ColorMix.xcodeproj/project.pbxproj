@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		227DC2CD1F34A09100893E7F /* ColorMix in Resources */ = {isa = PBXBuildFile; fileRef = 227DC2CC1F34A09000893E7F /* ColorMix */; };
 		22F733E51F30D742001CC140 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22F733E41F30D742001CC140 /* AppDelegate.swift */; };
 		22F733E71F30D742001CC140 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22F733E61F30D742001CC140 /* ViewController.swift */; };
 		22F733EA1F30D742001CC140 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 22F733E81F30D742001CC140 /* Main.storyboard */; };
@@ -16,7 +15,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		227DC2CC1F34A09000893E7F /* ColorMix */ = {isa = PBXFileReference; lastKnownFileType = folder; name = ColorMix; sourceTree = "<group>"; };
 		22F733E11F30D742001CC140 /* ColorMix.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ColorMix.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		22F733E41F30D742001CC140 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		22F733E61F30D742001CC140 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -59,7 +57,6 @@
 				22F733E41F30D742001CC140 /* AppDelegate.swift */,
 				22F733E61F30D742001CC140 /* ViewController.swift */,
 				22F733E81F30D742001CC140 /* Main.storyboard */,
-				227DC2CC1F34A09000893E7F /* ColorMix */,
 				22F733EB1F30D742001CC140 /* Assets.xcassets */,
 				22F733ED1F30D742001CC140 /* LaunchScreen.storyboard */,
 				22F733F01F30D742001CC140 /* Info.plist */,
@@ -126,7 +123,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				22F733EF1F30D742001CC140 /* LaunchScreen.storyboard in Resources */,
-				227DC2CD1F34A09100893E7F /* ColorMix in Resources */,
 				22F733EC1F30D742001CC140 /* Assets.xcassets in Resources */,
 				22F733EA1F30D742001CC140 /* Main.storyboard in Resources */,
 			);
